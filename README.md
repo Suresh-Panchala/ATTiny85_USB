@@ -6,5 +6,7 @@ This is about AVR based ATTiny85 Microcontroller , This repository contains the 
 *Connection Diagram*
 
 
-![bootloader](https://github.com/Suresh-Panchala/ATTiny85_USB/assets/40498897/e7dd2519-02f0-49ff-be44-f40839ce90a0)
+![bootloader](https://github.com/Suresh-Panchala/ATTiny85_USB/assets/40498897/e4a5bfe0-0a9a-4480-9fd9-ec980f637755)
+
+
 
